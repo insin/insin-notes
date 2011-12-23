@@ -2,6 +2,8 @@
 Twitter App: Substitute
 =======================
 
+This is now a thing: http://github.com/insin/substitute
+
 A `Twitter`_ app for conveniently correcting typos.
 
 In lieu of an edit button, correcting a typo on Twitter involves deleting the
