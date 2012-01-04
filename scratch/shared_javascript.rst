@@ -86,6 +86,9 @@ Research
 
   * https://github.com/weepy/brequire/blob/master/browser/require.js
 
+* https://github.com/azer/onejs - "transform commonjs packages into single,
+  stand-alone javascript files"
+
 * http://caolanmcmahon.com/posts/writing_for_node_and_the_browser
 
 * http://ender.no.de/
