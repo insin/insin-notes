@@ -206,6 +206,8 @@ Research
 
 * https://github.com/tobie/modulr-node
 
+* https://github.com/rpflorence/commonjs-rjs
+
 * https://github.com/azer/onejs - "transform commonjs packages into single,
   stand-alone javascript files"
 
