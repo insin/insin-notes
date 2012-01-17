@@ -204,6 +204,8 @@ Research
 
   * https://github.com/weepy/brequire/blob/master/browser/require.js
 
+* https://github.com/tobie/modulr-node
+
 * https://github.com/azer/onejs - "transform commonjs packages into single,
   stand-alone javascript files"
 
