@@ -207,6 +207,8 @@ Research
 * https://github.com/azer/onejs - "transform commonjs packages into single,
   stand-alone javascript files"
 
+* https://github.com/medikoo/modules-webmake
+
 * http://caolanmcmahon.com/posts/writing_for_node_and_the_browser
 
 * http://ender.no.de/
