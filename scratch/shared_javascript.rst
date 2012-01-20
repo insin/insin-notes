@@ -186,6 +186,12 @@ Research
 
 * https://github.com/substack/node-browserify of course!
 
+* https://github.com/hij1nx/codesurgeon can be used to programmatically pick
+  scripts apart to remove bits you don't want in the browser, rather than always
+  writing in a browser-compatible way or shimming.
+
+  * Example: https://github.com/flatiron/broadway/blob/master/bin/build
+
 * https://github.com/visionmedia/mocha/tree/master/support
 
   Mocha has a build script which provides a browser-side ``require()`` and
@@ -212,6 +218,8 @@ Research
   stand-alone javascript files"
 
 * https://github.com/medikoo/modules-webmake
+
+* https://github.com/rolandpoulter/node_modulator
 
 * http://caolanmcmahon.com/posts/writing_for_node_and_the_browser
 
