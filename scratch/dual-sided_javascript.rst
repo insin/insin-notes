@@ -5,8 +5,12 @@ Dual-Sided JavaScript
 Research
 ========
 
-* `Scaling Isomorphic Javascript Code <http://blog.nodejitsu.com/scaling-isomorphic-javascript-code>`_ -
-  describes a Resource-View-Presenter pattern for dual-sided code.
+* `Scaling Isomorphic Javascript Code
+  <http://blog.nodejitsu.com/scaling-isomorphic-javascript-code>`_ - describes a
+  Resource-View-Presenter pattern for dual-sided code.
+* `The client-side templating throwdown: mustache, handlebars, dust.js, and more
+  <http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more>`_
+  - reusability is one of the criteria evaluated here.
 
 Frameworks
 ==========
