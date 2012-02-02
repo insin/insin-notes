@@ -69,7 +69,7 @@ Target End State
 ================
 
 * Code everything using Node.js-style ``require()``.
-* For isomorphic code which needs Node.js-only features, detect ``process``, or
+* For dual-sided code which needs Node.js-only features, detect ``process``, or
   a similar Node.js global.
 * Hack in Node shims only as required.
 * Export for browsers:
@@ -77,7 +77,7 @@ Target End State
   * Implement ``require()`` for use in an IIFE, not available publicly - the
     final API will still be exported as a property of ``window``.
   * Wrap code and dependencies with IIFEs which define ``module``, ``exports``
-    and require.
+    and ``require``.
 * Dirt simple - *not automated* - should be driven off a file telling it exactly
   what to do. See Research section below for that. If you find yourself going
   down or needing to go down that route, use one of those instead.
