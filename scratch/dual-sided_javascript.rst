@@ -15,7 +15,7 @@ Research
 Frameworks
 ==========
 
-* `Derby <http://derbyjs.com>`_ (`GitHub <https://github.com/flatiron>`__)
+* `Derby <http://derbyjs.com>`_ (`GitHub <https://github.com/codeparty/derby>`__)
 * `Flatiron <http://flatironjs.org>`_ (`GitHub <https://github.com/flatiron>`__)
 * `Kanso <http://kan.so>`_ (`GitHub <https://github.com/kanso>`__)
 * `Sacrum <https://github.com/insin/sacrum>`_
