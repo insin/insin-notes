@@ -186,6 +186,9 @@ Research
 
 * https://github.com/substack/node-browserify of course!
 
+* https://github.com/LearnBoost/browserbuild looks like it does exactly what I
+  wanted before I wrote my own, manual, build process. D'oh.
+
 * https://github.com/hij1nx/codesurgeon can be used to programmatically pick
   scripts apart to remove bits you don't want in the browser, rather than always
   writing in a browser-compatible way or shimming.
