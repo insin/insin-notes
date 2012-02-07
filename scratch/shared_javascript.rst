@@ -186,8 +186,8 @@ Research
 
 * https://github.com/substack/node-browserify of course!
 
-* https://github.com/LearnBoost/browserbuild looks like it does exactly what I
-  wanted before I wrote my own, manual, build process. D'oh.
+* https://github.com/LearnBoost/browserbuild - specify what you need and it
+  handles relative stuff
 
 * https://github.com/hij1nx/codesurgeon can be used to programmatically pick
   scripts apart to remove bits you don't want in the browser, rather than always
@@ -216,6 +216,9 @@ Research
 * https://github.com/tobie/modulr-node
 
 * https://github.com/rpflorence/commonjs-rjs
+
+* https://github.com/coolaj86/node-pakmanager - ruh-roh, wants to remove your
+  opt-in rights to strict mode
 
 * https://github.com/azer/onejs - "transform commonjs packages into single,
   stand-alone javascript files"
