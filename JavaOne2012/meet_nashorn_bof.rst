@@ -15,6 +15,7 @@ Notes
   "pure"
 * No optimisations are planned for the near future.
 * New features
+
   * Here strings
   * Edit strings
   * Shebangs
