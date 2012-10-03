@@ -14,7 +14,7 @@ Node.jar, Akhil Arora
 
   * Including Java SE Embedded
 
-* Node port will always be single-threaded/evented, but Jave part can take
+* Node port will always be single-threaded/evented, but Java part can take
   advantage of threads/multi-core
 * Only on Java SE 7 and above
 * JavaScript part is single-threaded, but Java portions can spin up as many as
