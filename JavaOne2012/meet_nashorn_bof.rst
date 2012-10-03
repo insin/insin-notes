@@ -20,6 +20,10 @@ Notes
   * Edit strings
   * Shebangs
 * Compatibility script for Rhino code
+* Modules
+
+  * Node.jar implements Node's module system
+  * No plans for Nashorn itself to commit to a module system yet
 * Making *heavy* use of invokeDynamic
 * Node implementation is not as fast as native Node, but already in the ballpark
   and they think they can get there \**Akhil sinks into his chair in the
