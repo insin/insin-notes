@@ -6,6 +6,14 @@
 Welcome to insin-notes!
 =======================
 
+Conferences
+-----------
+
+.. toctree::
+   :maxdepth: 1
+
+   JavaOne2012/index
+
 Ideas
 -----
 
