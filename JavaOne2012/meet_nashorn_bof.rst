@@ -10,7 +10,7 @@ Notes
 * No plans to open source Node.jar
 * 3 former Rhino developers on the Nashorn team
 * ...don't have notes for the questions I asked, so imagine you're reading
-  interesting implementeation details here...
+  interesting implementation details here...
 * Didn't look at other JavaScript implementations during development to keep it
   "pure"
 * No optimisations are planned for the near future.
